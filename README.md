@@ -62,8 +62,8 @@ Git • Qt • SQL Server • Microsoft Office
 
 📧 **Email:** markgeorge99@aucegypt.edu
 
-💼 **LinkedIn:** *https://www.linkedin.com/in/mark-george-kyrollos-b50200252/*
+💼 **LinkedIn:** https://www.linkedin.com/in/mark-george-kyrollos-b50200252/
 
 💻 **GitHub:** https://github.com/MarkKyrollos
 
-🎥 **YouTube:** *https://www.youtube.com/@markthegeorge*
+🎥 **YouTube:** https://www.youtube.com/@markthegeorge
