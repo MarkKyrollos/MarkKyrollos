@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mark Kyrollos
 
 🎓 Computer Science Student @ The American University in Cairo  
-📍 Cairo, Egypt | 💼 Software Engineering & AI | 🤖 Passionate about Artificial Intelligence, Full-Stack Development, and Data Engineering
+📍 Cairo, Egypt | 💼 Software Engineering & AI | 🤖 Passionate about Artificial Intelligence & Full-Stack Development
 
 ---
 
