@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Mark Kyrollos
 
-🎓 Computer Science Student @ The American University in Cairo  
+🎓 Computer Science Graduate from The American University in Cairo  
 📍 Cairo, Egypt | 💼 Software Engineering & AI | 🤖 Passionate about Artificial Intelligence & Full-Stack Development
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pursuing a B.Sc. in Computer Science with a Minor in Mathematics
-- 💡 Passionate about Artificial Intelligence, Machine Learning, and Software Engineering
+- 🎓 Currently hold a B.Sc. in Computer Science with a Minor in Mathematics
+- 💡 Passionate about Artificial Intelligence and Software Engineering
 - 🖥️ Experienced in full-stack web development using React, .NET, FastAPI, and SQL
 - 🌱 Currently building AI applications with Retrieval-Augmented Generation (RAG), LLMs, and IoT systems
 - 🎹 Classical pianist with over 5 years of professional training and performance
@@ -29,7 +29,7 @@
 - Built responsive web applications using React.js, TypeScript, HTML/CSS, and reusable UI components
 
 ### IT Support & Infrastructure Specialist Intern @ Corona (2024)
-- Provided IT support across infrastructure, networking, security, help desk, and ERP Dynamics systems
+- Provided IT support across infrastructure, networking, and ERP Dynamics systems
 
 ---
 
