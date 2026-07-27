@@ -10,7 +10,6 @@
 - 🎓 Currently hold a B.Sc. in Computer Science with a Minor in Mathematics
 - 💡 Passionate about Artificial Intelligence and Software Engineering
 - 🖥️ Experienced in full-stack web development using React, .NET, FastAPI, and SQL
-- 🌱 Currently building AI applications with Retrieval-Augmented Generation (RAG), LLMs, and IoT systems
 - 🎹 Classical pianist with over 5 years of professional training and performance
 
 ---
