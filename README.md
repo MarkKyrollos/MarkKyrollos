@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mark Kyrollos
+# 👋 Hi, I'm Mark George
 
 🎓 Computer Science Graduate from The American University in Cairo  
 📍 Cairo, Egypt | 💼 Software Engineering & AI | 🤖 Passionate about Artificial Intelligence & Full-Stack Development
@@ -46,10 +46,10 @@
 ## 🛠️ Skills & Tools
 
 **Languages**  
-C/C++ • Python • JavaScript • SQL • Verilog
+C/C++ • JavaScript • SQL • Verilog
 
 **Frameworks & Technologies**  
-React.js • FastAPI • .NET • HTML/CSS • Ollama
+React.js • FastAPI • HTML/CSS • Ollama
 
 **Tools**  
 Git • Qt • SQL Server • Microsoft Office
